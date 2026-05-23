@@ -11,4 +11,3 @@ Procedures: atualização manual do estoque com retorno de mensagem.
 Materialized View (simulada): geração de resumo de vendas utilizando tabela física e procedimento de atualização.
 Grant e Revoke: controle de acesso dos usuários às informações do sistema.
 
-O objetivo foi demonstrar o uso de recursos avançados do MySQL para melhorar organização, automação, segurança e desempenho em um ambiente de comércio eletrônico.
